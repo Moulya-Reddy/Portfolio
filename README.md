@@ -24,7 +24,7 @@ Welcome to my GitHub! This is where I build, experiment, and contribute to proje
 > Predicts student career paths based on Big Five (OCEAN) personality traits and aptitude scores.
 > 📌 Provides explainable recommendations and visualizes decision influences.
 > **Tech:** Decision Tree, Scikit-learn, Data Analysis
-> 🔗 [Project Repo](https://github.com/Moulya-Reddy/Career_Prediction)
+> 🔗 [Project Repo](https://github.com/Moulya-Reddy/Career_Prediction_Machine_Learning_Random_Forest)
 
 ---
 
@@ -60,7 +60,7 @@ Welcome to my GitHub! This is where I build, experiment, and contribute to proje
 > A mobile app UI for controlling smart home devices.
 > 📌 Built with Flutter and Dart to simulate real-time control features.
 > **Tech:** Dart, Flutter
-> 🔗 [Project Repo](https://github.com/Moulya-Reddy/Smart_Home_App_Dart)
+> 🔗 [Project Repo](https://github.com/Moulya-Reddy/Smart_Home_App_Dart_Flutter)
 
 ---
 
