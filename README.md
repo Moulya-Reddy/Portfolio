@@ -94,7 +94,6 @@ Welcome to my GitHub! This is where I build, experiment, and contribute to proje
 
 ## 🔗 Connect With Me
 
-* 🌐 [Portfolio](https://studentname-ai-ml-portfo-4um2lx4.gamma.site/)
 * 💼 [LinkedIn](http://www.linkedin.com/in/moulya-reddy-6700272b7)
 * 👩‍💻 [GitHub](https://github.com/Moulya-Reddy)
 
